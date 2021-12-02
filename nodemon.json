@@ -1,0 +1,7 @@
+{
+  "env": {
+    "DB_USER": "kuan",
+    "DB_PASSWORD": "testpassword",
+    "DB_NAME": "task1"
+  }
+}
